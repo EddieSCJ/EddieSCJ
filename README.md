@@ -8,7 +8,7 @@ object **EDCLEIDSON** {
  val acknowledgements = "Backend Developer"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java",  "Kotlin", "Spring Boot", "Spring Batch", "Golang", "echo", "JavaScript", "React", "Angular", "New Relic", "Datadog") 
+ val technologies = listOf("Java",  "Kotlin", "Spring Boot", "Spring Batch", "Golang", "echo", "JavaScript", "React", "Angular", "New Relic", "Datadog") 
 
 }
 ```
