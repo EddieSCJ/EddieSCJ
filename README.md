@@ -1,5 +1,8 @@
 ## Oii Eu Sou O Edcleidson 😄
 
+I'm an about 2 years experienced software developer who worked in B2B, P2P, and Health Systems in customer and compliance operations with java, kotlin and go.
+I'm also a 20 years old coding, design patterns and best practices enthusiast.
+
 ## **GitHub Estatísticas**
 
 <div align="center"><br>
