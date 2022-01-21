@@ -1,9 +1,10 @@
-## Oii Eu Sou O Edcleidson 😄
+## Hiii, My name is Edcleidson 😄
+It's very nice to meet you.
 
 I'm an about 2 years experienced software developer who worked in B2B, P2P, and Health Systems in customer and compliance operations with java, kotlin and go.
 I'm also a 20 years old coding, design patterns and best practices enthusiast.
 
-## **GitHub Estatísticas**
+## **GitHub Stats**
 
 <div align="center"><br>
     <a href="https://github.com/eddiescj">
