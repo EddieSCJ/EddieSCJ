@@ -1,5 +1,7 @@
 ## Oii Eu Sou O Edcleidson 😄
 
+## **GitHub Estatísticas**
+
 <div align="center"><br>
     <a href="https://github.com/eddiescj">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -22,26 +24,5 @@
 </div>
 
 <br>
-
-## **GitHub Estatísticas**
-
- <div>
-  <a href="https://github.com/eddiescj">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiescj&layout=compact&theme=nord"/>
-</div>
-
-### Rede Sociais!
-
-<p align="left">
-<a href="mailto:eddieprofessional@gmail.com" alt="Gmail">
-  <img src="https://cdn.discordapp.com/attachments/755062376545648641/880232795446837298/Component_4.png" /></a>
-
-  <a href="https://www.linkedin.com/in/eddiescj" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/755062376545648641/880232790757630002/Component_3.png" /></a>
-
-  <a href="https://www.instagram.com/def_person.me/" alt="Instagram">
-  <img src="https://cdn.discordapp.com/attachments/755062376545648641/880232789897773116/Component_2.png"/></a>
-</p>  
 
 ![Snake animation](https://github.com/EddieSCJ/EddieSCJ/blob/output/github-contribution-grid-snake.svg)
