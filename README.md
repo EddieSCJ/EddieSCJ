@@ -2,7 +2,8 @@
 It's very nice to meet you.
 
 I'm an about 2 years experienced software developer who worked in B2B, P2P, and Health Systems in customer and compliance operations with java, kotlin and go.
-I'm also a 20 years old coding, design patterns and best practices enthusiast.
+
+I'm also a 20 years old boy who is coding, design patterns and best practices enthusiast.
 
 ## **GitHub Stats**
 
