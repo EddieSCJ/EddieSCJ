@@ -1,33 +1,27 @@
 ## Oii Eu Sou O Edcleidson 😄
 
-<img align="right" width="300" height="168" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<div align="center"><br>
+    <a href="https://github.com/eddiescj">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiescj&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
+    </a>
+</div>
 
-```kotlin
-object **EDCLEIDSON** {
- val name = "Edcleidson Junior"
- val acknowledgements = "Backend Developer"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val technologies = listOf("Java",  "Kotlin", "Spring Boot", "Spring Batch", "Golang", "echo", "JavaScript", "React", "Angular", "New Relic", "Datadog") 
+<div style="display: inline_block" align="center"><br>
+    <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+</div>
 
-}
-```
+<div style="display: inline_block" align="center"><br>
+    <a href="https://github.com/eddiescj/public"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/eddiescj/"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://eddiescj.medium.com/"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://stackoverflow.com/users/7805948/eddiescj"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+    <a href="https://www.reddit.com/user/eddiescj"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+</div>
 
-## **Linguagens e Ferramentas:**
-<div>
-<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273105321349140/Component_16.png">
-<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273102049804298/Component_15.png">
-<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273079857725490/Component_14.png">
-<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273079576711210/Component_13.png">
-<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273078217764895/Component_11.png">
-<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273078192574525/Component_12.png">
-<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273076636483614/Component_10.png">
-<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273076389052487/Component_9.png">
-<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273065953599498/Component_8.png">
-<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273065831985162/Component_7.png">
-<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273064225542215/Component_6.png">
-<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273059456630784/Component_5.png">
-<div>
+<br>
 
 ## **GitHub Estatísticas**
 
