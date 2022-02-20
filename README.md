@@ -18,7 +18,7 @@ I'm also a 20 years old boy who is coding, design patterns and best practices en
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 </div>
 
 <div style="display: inline_block" align="center"><br>
