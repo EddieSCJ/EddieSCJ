@@ -1,16 +1,15 @@
 ## Hiii, My name is Edcleidson 😄
 It's very nice to meet you.
 
-I'm an about 2 years experienced software developer who worked in B2B, B2C, and Health Systems in customer and compliance operations with java, kotlin and go.
-
-I'm also a 20 years old boy who is coding, design patterns and best practices enthusiast.
+2 years experienced Software Developer who loves code quality, and security and experienced in B2B and B2C business like bank, e-commerces and health systems. He is someone passionate about changing lives with software, work very well with different languages and paradigms and, finally, love design patterns, math, algorithms, and solving problems enthusiast who believes there is no great solution with a diverse team with different thoughts.
 
 ## **GitHub Stats**
 
 <div align="center"><br>
     <a href="https://github.com/eddiescj">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiescj&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="145em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="145em" src="http://github-readme-streak-stats.herokuapp.com?user=eddiescj&theme=elegant&hide_border=true&background=232323"/>
+        <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiescj&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
     </a>
 </div>
 
@@ -28,13 +27,6 @@ I'm also a 20 years old boy who is coding, design patterns and best practices en
     <a href="https://math.stackexchange.com/users/954016/edcleidson-junior" target="_blank"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"/></a>
     <a href="https://www.reddit.com/user/eddiescj" target="_blank"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"/></a>
 </div>
-
-<br>
-
-## Minhas Atividades:
-Forked from: [Github do Lucas]https://github.com/lucenasoft/lucenasoft/blob/main/README.md
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eddiescj&theme=elegant&hide_border=true&background=232323)
 
 <br>
 
