@@ -7,9 +7,9 @@ It's very nice to meet you.
 
 <div align="center"><br>
     <a href="https://github.com/eddiescj">
-        <img height="145em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-        <img height="145em" src="http://github-readme-streak-stats.herokuapp.com?user=eddiescj&theme=elegant&hide_border=true&background=232323"/>
-        <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiescj&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="250em" src="http://github-readme-streak-stats.herokuapp.com?user=eddiescj&theme=elegant&hide_border=true&background=232323"/>
+        <img height="250em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiescj&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
     </a>
 </div>
 
