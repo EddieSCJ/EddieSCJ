@@ -31,4 +31,11 @@ I'm also a 20 years old boy who is coding, design patterns and best practices en
 
 <br>
 
+## Minhas Atividades:
+Forked from: [Github do Lucas]https://github.com/lucenasoft/lucenasoft/blob/main/README.md
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eddiescj&theme=elegant&hide_border=true&background=232323)
+
+<br>
+
 ![Snake animation](https://github.com/EddieSCJ/EddieSCJ/blob/output/github-contribution-grid-snake.svg)
