@@ -25,7 +25,7 @@
 
 It's very nice to meet you.
 
-2 and a half years experienced Software Developer who loves code quality, and security and experienced in B2B and B2C business like bank, e-commerces and health systems. He is someone passionate about changing lives with software, work very well with different languages and paradigms and, finally, love design patterns, math, algorithms, and solving problems enthusiast who believes there is no great solution with a diverse team with different thoughts.
+2 and a half years experienced Software Developer who loves code quality, and security and experienced in B2B and B2C business like bank, e-commerces and health systems. He is someone passionate about changing lives with software, work very well with different languages and paradigms and, finally, love design patterns, math, algorithms, and solving problems enthusiast who believes there is no great solution without a diverse team with different thoughts.
 
 ## **GitHub Stats**
 
