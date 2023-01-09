@@ -39,4 +39,4 @@ It's very nice to meet you.
 
 <br>
 
-![Snake animation](https://github.com/EddieSCJ/EddieSCJ/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EddieSCJ/EddieSCJ/blob/output/github-contribution-grid-snake-dark.svg)
