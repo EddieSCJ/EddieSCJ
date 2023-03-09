@@ -18,14 +18,15 @@
     <a href="https://www.reddit.com/user/eddiescj" target="_blank"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"/></a>
 </div>
 
-
 <br>
 <br>
 <br>
 
 It's very nice to meet you.
 
-2 and a half years experienced Software Developer who loves code quality, and security and experienced in B2B and B2C business like bank, e-commerces and health systems. He is someone passionate about changing lives with software, work very well with different languages and paradigms and, finally, love design patterns, math, algorithms, and solving problems enthusiast who believes there is no great solution without a diverse team with different thoughts.
+Check my site clicking in [Edcleidson's Profile](https://eddiescj.dev )      
+
+Software Developer who loves code quality, and security. Experienced in B2B and B2C business like banking, e-commerces and health systems. Someone passionate about changing lives with software, and who works very well with different languages and paradigms. Finally, I like design patterns, math, algorithms, and solving problems. I might say I'm an enthusiast who believes there is no great solution without a diverse team with different thoughts.
 
 ## **GitHub Stats**
 
