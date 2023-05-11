@@ -20,6 +20,10 @@
 
 <br>
 <br>
+
+### Visitors
+![Visitor Count](https://profile-counter.glitch.me/eddiescj/count.svg)
+
 <br>
 
 It's very nice to meet you.
