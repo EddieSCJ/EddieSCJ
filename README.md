@@ -1,49 +1,96 @@
-<div style="display: inline_block" align="center"><br>
-    <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-    <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-    <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" />
+<h1 align="center">Hi 👋, I'm Edcleidson Júnior</h1>
+<h3 align="center">A Passionate Backend Developer From Brazil</h3>
 
+<div align="left">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=eddiescj&repo=eddiescj&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Visitors Count in Eddie's Github" height="28px" />
 </div>
 
-<br>
-<br>
+- 🌱 I’m currently working with <strong style="color: #61DAFB;"> Java, Kotlin & Node.JS</strong> and also worked with <strong>Go</strong>
 
-## Hiii, My name is Edcleidson 😄
+- 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
-<div style="display: inline_block;" align="center"><br>
-    <a href="https://github.com/eddiescj" target="_blank"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/eddiescj/" target="_blank"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-    <a href="https://eddiescj.medium.com/" target="_blank"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a>
-    <a href="https://math.stackexchange.com/users/954016/edcleidson-junior" target="_blank"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"/></a>
-    <a href="https://www.reddit.com/user/eddiescj" target="_blank"><img height="32" align="left" alt="Website" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"/></a>
+- 👨‍💻 You can find more about me in <a href="https://eddiescj.dev/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">EddieSCJ's site</a>
+
+- 📫 Contact me in <strong style="color: #61DAFB;">eddieprofessionalmail@gmail.com</strong>
+
+## Activities
+<div align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eddiescj&theme=react&hide_border=true&show_icons=true&custom_title=Contributions%20Graph" />
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
 
-### Visitors
-![Visitor Count](https://profile-counter.glitch.me/eddiescj/count.svg)
-
-<br>
-
-It's very nice to meet you.
-
-Check my site clicking in [Edcleidson's Profile](https://eddiescj.dev )      
-
-Software Developer who loves code quality, and security. Experienced in B2B and B2C business like banking, e-commerces and health systems. Someone passionate about changing lives with software, and who works very well with different languages and paradigms. Finally, I like design patterns, math, algorithms, and solving problems. I might say I'm an enthusiast who believes there is no great solution without a diverse team with different thoughts.
-
-## **GitHub Stats**
-
-<div align="center"><br>
-    <a href="https://github.com/eddiescj">
-        <img height="250em" src="http://github-readme-streak-stats.herokuapp.com?user=eddiescj&theme=elegant&hide_border=false&background=232323"/>
-        <img height="250em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-        <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiescj&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
-    </a>
+<div>
+  <img align="center" height="204em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=react&locale=en&hide_border=true" alt="eddiescj"/>
+  <img align="center" height="204em" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiescj&theme=react&hide_border=true" alt="eddiescj" />
+</div>
+  <br/>
+  <br/>
+  
+  <img align="center" height="250em" width="" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiescj&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="eddiescj" />
+<div align="left">
 </div>
 
+## Languages and Tools
+
+<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+</a>
+<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="java" width="40" height="40"/> 
+</a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> 
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href=https://www.postgresql.org/" target="_blank" rel="noreferrer">  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+## Connect with me
+
+<a href="https://discord.com/users/856534558229266461" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eddiescj's link, click here to open" height="40" width="40"/>
+</a>
+<a href="https://stackoverflow.com/users/11784637/edcleidson-junior" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eddiescj's stackoverflow link, click here to open" height="40" width="40" />
+</a>
+<a href="https://www.hackerrank.com/EddieSCJ?hr_r=1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eddiescj" height="40" width="40" />
+</a>
+<a href="https://leetcode.com/EddieSCJ/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eddiescj's link, click here to open" height="40" width="40" />
+</a>
+<a href="https://eddiescj.medium.com/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="eddiescj's medium link, click here to open" height="40" width="40" />
+</a>
+<a href="https://linkedin.com/in/eddiescj/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eddiescj's linkedin link, click here to open" height="40" width="40" />
+</a>
+
+<br>
 <br>
 
-![Snake animation](https://github.com/EddieSCJ/EddieSCJ/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/eddiescj/eddiescj/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
+<img align="center" src="./images/animated-waves.svg" width="100%" alt="Footer Animated Waves" />
