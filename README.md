@@ -88,6 +88,4 @@
 
 ![Snake animation](https://github.com/eddiescj/eddiescj/blob/output/github-contribution-grid-snake.svg)
 
-<br>
-
 <img align="center" src="./images/animated-waves.svg" width="100%" alt="Footer Animated Waves" />
