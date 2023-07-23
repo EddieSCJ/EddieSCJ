@@ -26,7 +26,7 @@
   <br/>
   <br/>
 <div align="left">
-    <img height="180em" widrh="500em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=react&locale=en&hide_border=true" alt="eddiescj" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=react&locale=en&hide_border=true" alt="eddiescj" />
 </div>
 
 ## Languages and Tools
@@ -34,7 +34,7 @@
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
 </a>
-<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="java" width="40" height="40"/> 
 </a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
