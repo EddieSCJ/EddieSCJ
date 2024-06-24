@@ -31,7 +31,7 @@
 <br/>
 
 <div align="left">
-    <img align="center" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiescj&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="eddiescj" />
+    <img align="center" height="235em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiescj&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="eddiescj" />
 </div>
 
 ## Languages and Tools
