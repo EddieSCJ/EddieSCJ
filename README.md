@@ -2,8 +2,7 @@
 <h3 align="center">A Passionate Backend Developer From Brazil</h3>
 
 <div align="left">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feddiescj&countColor=%23263759"
-    alt="Visitors Count in Eddie's Github" height="28px" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Feddiescj&countColor=%23263759" alt="Visitors Count in Eddie's Github" height="28px" />
 </div>
 
 - 🌱 I’m currently working with <strong style="color: #61DAFB;"> Java, Kotlin</strong> and also worked with <strong>Go</strong>
@@ -21,13 +20,13 @@
 <br/>
 <br/>
 <div>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiescj&theme=react&hide_border=true" alt="eddiescj" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiescj&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="eddiescj" />
+  <img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiescj&theme=react&hide_border=true" alt="eddiescj" />
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=react&locale=en&hide_border=true" alt="eddiescj" />
 </div>
   <br/>
   <br/>
-<div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=react&locale=en&hide_border=true" alt="eddiescj" />
+<div align="center">
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiescj&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="eddiescj" />
 </div>
 
 ## Languages and Tools
