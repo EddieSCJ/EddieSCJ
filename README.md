@@ -21,12 +21,12 @@
 <br/>
 <div>
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiescj&theme=react&hide_border=true" alt="eddiescj" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=react&locale=en&hide_border=true" alt="eddiescj" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiescj&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="eddiescj" />
 </div>
 <br/>
 <br/>
 <div align="left">
-    <img align="center" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiescj&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="eddiescj" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=react&locale=en&hide_border=true" alt="eddiescj" />
 </div>
 
 ## Languages and Tools
