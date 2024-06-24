@@ -17,16 +17,21 @@
 <div align="center">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eddiescj&theme=react&hide_border=true&show_icons=true&custom_title=Contributions%20Graph" />
 </div>
+
 <br/>
 <br/>
+
 <div>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiescj&theme=react&hide_border=true" alt="eddiescj" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiescj&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="eddiescj" />
+  <img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiescj&theme=react&hide_border=true" alt="eddiescj" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=react&locale=en&hide_border=true" alt="eddiescj" />
+
 </div>
+
 <br/>
 <br/>
+
 <div align="left">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=react&locale=en&hide_border=true" alt="eddiescj" />
+    <img align="center" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiescj&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="eddiescj" />
 </div>
 
 ## Languages and Tools
