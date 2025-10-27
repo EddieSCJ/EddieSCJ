@@ -90,5 +90,3 @@
     src="https://raw.githubusercontent.com/EddieSCJ/EddieSCJ/output/github-snake.svg"
   />
 </picture>
-
-<img align="center" src="./images/animated-waves.svg" width="100%" alt="Footer Animated Waves" />
