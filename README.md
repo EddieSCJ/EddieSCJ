@@ -9,9 +9,9 @@
 
 - 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
-- 👨‍💻 You can find more about me in <a href="https://eddiescj.dev/" style="color: #61DAFB; font-weight: 700; text-decoration: none;">EddieSCJ's site</a>
+- 👨‍💻 You can find more about me in <a href="https://beacons.ai/eddiescj" style="color: #61DAFB; font-weight: 700; text-decoration: none;">EddieSCJ's site</a>
 
-- 📫 Contact me in <strong style="color: #61DAFB;">eddieprofessionalmail@gmail.com</strong>
+- 📫 Contact me in <strong style="color: #61DAFB;">edcleidson.junior@gmail.com</strong>
 
 ## Activities
 <div align="center">
@@ -68,9 +68,6 @@
 </a>
 <a href="https://leetcode.com/EddieSCJ/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eddiescj's link, click here to open" height="40" width="40" />
-</a>
-<a href="https://eddiescj.medium.com/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="eddiescj's medium link, click here to open" height="40" width="40" />
 </a>
 <a href="https://linkedin.com/in/eddiescj/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eddiescj's linkedin link, click here to open" height="40" width="40" />
