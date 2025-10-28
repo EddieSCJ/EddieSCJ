@@ -22,7 +22,6 @@
 <br/>
 
 <div>
-  <img align="center" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiescj&theme=react&hide_border=true" alt="eddiescj" />
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=eddiescj&show_icons=true&theme=react&locale=en&hide_border=true" alt="eddiescj" />
 
 </div>
